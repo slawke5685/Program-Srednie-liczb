@@ -1,5 +1,6 @@
 # Program-Srednie-liczb
 Program oblicza średnią osobno dla liczb parzystych i osobno dla liczb nieparzystych
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
